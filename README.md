@@ -2,7 +2,5 @@
 
 #### Dataset Link - https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
 
-#### This is a content based Recommender system which uses only information about the description and attributes of the items users has previously consumed.In other words, these algorithms try to recommend items that are similar to those that a user liked in the past (or is examining in the present).
-In particular, various candidate items are compared with items previously rated by the user and the best-matching items are recommended.
-
+#### This is a content based Recommender system. When user enters the name of particular restaurant, model will recommend similar restaurants based on the reviews (sorted with the highest number of reviews)
 
